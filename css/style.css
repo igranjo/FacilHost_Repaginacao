@@ -1,0 +1,18 @@
+body{
+    font-family: Inter;
+    margin: 0px;
+}
+
+.fundo{
+    /*background-color: #e77817;*/
+    background-color: #e77817c7;
+}
+
+.navbar-brand{
+    height: 80px;
+    width: auto;
+}
+
+.destaque{
+    font-weight: 100;
+}
