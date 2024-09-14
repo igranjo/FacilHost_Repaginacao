@@ -5,7 +5,7 @@ body{
 
 .fundo{
     /*background-color: #e77817;*/
-    background-color: #e77817c7;
+    background-color: #e77817;
 }
 
 .navbar-brand{
@@ -15,4 +15,23 @@ body{
 
 .destaque{
     font-weight: 100;
+}
+
+.btn-primary{
+    border-color: #e77817c7;
+    background-color: #e77817c7;
+}
+
+.btn{
+    border-color: #e77817c7;
+    color: white;
+}
+
+.border-primary{
+    border-color: #e77817c7;
+}
+
+.btn-primary:hover, .btn:hover{
+    background-color: #e77817;
+    border-color: #e77817;
 }
