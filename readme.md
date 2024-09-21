@@ -17,4 +17,4 @@ O projeto será desenvolvido por um grupo de 5 pessoas, sendo eles os alunos:
 
 ## Como executar o projeto
 
-Por se tratar de uma página web, para visualizar o projeto, basta baixar os arquivos do repositório e executar o arquivo index.html
+Por se tratar de uma página web, para visualizar o projeto, basta baixar os arquivos do repositório e executar o arquivo index.html, que é a página principal do site.
