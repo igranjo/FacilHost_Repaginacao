@@ -8,6 +8,9 @@ body{
     background-color: #e77817;
 }
 
+.img-carrossel{
+    height: 100px;
+}
 .navbar-brand{
     height: 80px;
     width: auto;
