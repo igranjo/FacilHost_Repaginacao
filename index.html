@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/style.css">
   </head>
   <body data-bs-theme="dark">
-    <nav class="navbar navbar-expand-sm" >
+    <nav class="navbar navbar-expand-sm m" >
       <div class="container-fluid fundo">
         <img src="img/Logo_nobg.png" alt="" class="navbar-brand">
         <div class="collapse navbar-collapse">
@@ -46,32 +46,79 @@
         </div>
       </div>
     </nav>
-    <h1 class="destaque"> Encontre o melhor serviço para sua necessidade </h1>
-    <div id="carrossel" class="carousel slide">
-      <div class="carousel-indicators">
-        <button type="button" data-bs-target="#carrossel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-        <button type="button" data-bs-target="#carrossel" data-bs-slide-to="1" aria-label="Slide 2"></button>
-        <button type="button" data-bs-target="#carrossel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <div class="container">
+      <h1 class="destaque"> Encontre o melhor serviço para sua necessidade </h1>
+      <div id="carrossel" class="carousel slide">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carrossel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carrossel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#carrossel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="img/Webhosting.jpg" class="d-block w-100 img-fluid" alt="...">
+          </div>
+          <div class="carousel-item">
+            <img src="img/Ecommerce.jpg" class="d-block w-100 img-fluid" alt="...">
+            <h2 class="legenda-absoluta">Serviços de Planos de Revenda</h2>
+          </div>
+          <div class="carousel-item">
+            <img src="img/WebRadio.jpg" class="d-block w-100" alt="...">
+            <h2 class="legenda-absoluta"> Serviços de Web-Rádio </h2>
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carrossel" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carrossel" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
       </div>
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <img src="img/Webhosting.jpg" class="d-block w-100 img-fluid" alt="...">
+      
+      <div class="row my-3">
+        <div class="col">
+          <div class="card">
+            <div class="card-header fundo">
+              <h5 class="card-title">
+                Planos Acessíveis
+              </h5>
+            </div>
+            <div class="card-body">
+              <p class="card-text">
+                Hospedagem com preços competitivos e serviços de qualidade.
+              </p>
+            </div>
+          </div>
         </div>
-        <div class="carousel-item">
-          <img src="..." class="d-block w-100" alt="...">
+        <div class="col">
+          <div class="card">
+            <div class="card-header fundo">
+              <h5 class="card-title">
+                Registro de Domínios
+              </h5>
+            </div>
+            <div class="card-body">
+              <p class="card-text">
+                Registre seu domínio com facilidade e segurança.
+              </p>
+            </div>
+          </div>
         </div>
-        <div class="carousel-item">
-          <img src="..." class="d-block w-100" alt="...">
+        <div class="col">
+          <div class="card">
+            <div class="card-header fundo">
+              <h5 class="card-title">Nossa Equipe</h5>
+            </div>
+            <div class="card-body">
+              <p class="card-text">
+                Equipe de suporte capacitada e de profissionais de alto nível, prontos para auxiliar no seu processo de hospedagem
+              </p>
+            </div>
+          </div>
         </div>
       </div>
-      <button class="carousel-control-prev" type="button" data-bs-target="#carrossel" data-bs-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Previous</span>
-      </button>
-      <button class="carousel-control-next" type="button" data-bs-target="#carrossel" data-bs-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
-      </button>
     </div>
       <footer class="py-3 my-4 fundo">
         <ul class="nav justify-content-center border-bottom pb-3 mb-3">

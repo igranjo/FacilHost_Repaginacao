@@ -17,7 +17,7 @@ body{
 }
 
 .destaque{
-    font-weight: 100;
+    text-align: center;
 }
 
 .btn-primary{
@@ -37,4 +37,11 @@ body{
 .btn-primary:hover, .btn:hover{
     background-color: #e77817;
     border-color: #e77817;
+}
+
+.legenda-absoluta{
+    position: absolute;
+    top: 0px;
+    color: #e77817;
+    font-weight: 800;
 }
