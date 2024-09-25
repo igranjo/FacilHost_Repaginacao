@@ -12,9 +12,9 @@ O projeto será desenvolvido por um grupo de 5 pessoas, sendo eles os alunos:
 * Ítalo Granjo 
     * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italogranjo/) 
 * João Henrique Mendes
+* João Pedro
 * João Vitor Vieira 
     * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-b3281a246/) 
-* João Pedro
 
 ## Como executar o projeto
 
