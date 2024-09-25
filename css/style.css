@@ -31,7 +31,7 @@ body{
 }
 
 .border-primary{
-    border-color: #e77817;
+    border-color: #e77817 !important;
 }
 
 .btn-primary:hover, .btn:hover{
@@ -48,4 +48,9 @@ body{
     top: 0px;
     color: #e77817;
     font-weight: 800;
+}
+
+.centro{
+    display: flex;
+    justify-content: center;
 }
