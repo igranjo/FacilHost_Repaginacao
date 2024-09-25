@@ -31,7 +31,7 @@ body{
 }
 
 .border-primary{
-    border-color: #e77817c7;
+    border-color: #e77817;
 }
 
 .btn-primary:hover, .btn:hover{
@@ -40,4 +40,12 @@ body{
 }
 .text-orange{
     color: #e77817;
+}
+
+.legenda-absoluta{
+    color: #e77817;
+    position: absolute;
+    top: 0px;
+    color: #e77817;
+    font-weight: 800;
 }
