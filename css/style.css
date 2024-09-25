@@ -17,7 +17,7 @@ body{
 }
 
 .destaque{
-    text-align: center;
+    font-weight: 100;
 }
 
 .btn-primary{
@@ -38,10 +38,6 @@ body{
     background-color: #e77817;
     border-color: #e77817;
 }
-
-.legenda-absoluta{
-    position: absolute;
-    top: 0px;
+.text-orange{
     color: #e77817;
-    font-weight: 800;
 }
